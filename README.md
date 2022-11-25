@@ -4,6 +4,7 @@ This project contains the files required to replicate the experiments described 
 The user should first populate an LPG graph in Neo4j with the BPIC'17 data, then make minor changes to the files, and finally run the code to get the messaging interface to ask and receive questions.
 
 The detailed instructions are described below:
+
 1- Download Neo4j Desktop and create a DBMS (to store the graph of the  data set).
 2- Open the python code with Pycharm or any other python IDEs.
 3- In the ReadRealData.py file:
